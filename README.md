@@ -1,2 +1,2 @@
 # Coding-Challenges-for-fun
-Here are some Hackerrank/Leetcode, Interview Preparation challenges' solutions
+Here are some sloutions to Hackerrank/Leetcode and Interview Preparation questions
